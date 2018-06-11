@@ -16,6 +16,8 @@ gem 'active_model_serializers', '~> 0.10.0'
 gem 'figaro'
 gem 'coffee-rails', '~> 4.2'
 gem 'jbuilder', '~> 2.5'
+gem 'sidekiq'
+gem 'clockwork'
 # gem 'bcrypt', '~> 3.1.7'
 
 group :development, :test do
